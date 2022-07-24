@@ -9,6 +9,9 @@ __pycache__/
 #large file
 ratings.csv
 
+#Config File
+Config.py
+
 # Distribution / packaging
 .Python
 build/
